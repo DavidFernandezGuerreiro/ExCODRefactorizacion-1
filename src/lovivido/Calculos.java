@@ -16,6 +16,7 @@ public class Calculos {
     int años;
     
     /**
+     * Método para pedir/recibir el nombre y la edad.
      * @param nombre Parámetro en el que agregamos el nombre.
      * @param edad Parámetro en el que agregamos la edad.
     */
@@ -27,6 +28,7 @@ public class Calculos {
     }   
     
     /**
+     * Método para calcular el tiempo vivido de una persona.
      * @param meses Parámetro en el que muestra los meses vividos.
      * @param dias Parámetro en el que muestra los dias vividos.
      * @param horas Parámetro en el que muestra las horas vividas.
